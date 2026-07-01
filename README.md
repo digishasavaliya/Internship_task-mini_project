@@ -2,6 +2,9 @@
 
 This repository contains the GitHub links and video demonstrations for all the tasks and the mini project completed during **Summer Internship I**.
 
+**Video Link:**
+[Add Video Link]
+
 ## Task 1
 
 **GitHub Link:**
@@ -37,6 +40,3 @@ https://github.com/digishasavaliya/task8-mlmodel-digishasavaliya
 **GitHub Link:**
 https://github.com/digishasavaliya/Heart_Stroke_Prediction
 
-
-**Video Link:**
-[Add Video Link]
