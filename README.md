@@ -3,7 +3,7 @@
 This repository contains the GitHub links and video demonstrations for all the tasks and the mini project completed during **Summer Internship I**.
 
 **Video Link:**
-[Add Video Link]
+https://drive.google.com/drive/folders/1_JrovUiqxdd4e1I32X2gTMIzJ_oVsUuD?usp=drive_link
 
 ## Task 1
 
